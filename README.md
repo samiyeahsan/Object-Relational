@@ -5,7 +5,7 @@
 
 ## step by step
 
-
+```
 functional Express.js API
 WHEN user add my database name, MySQL username, and MySQL password to an environment variable file
 THEN able to connect to a database using Sequelize
